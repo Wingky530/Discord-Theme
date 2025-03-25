@@ -1,6 +1,6 @@
 # Discord-Theme
 Isinya tema discord yang udah gw modifikasi ke lightmode
-> [!WARNING]  
+> [!PERINGATAN]  
 > Ini hanya project untuk senang-senang semata
 
 # sys530
