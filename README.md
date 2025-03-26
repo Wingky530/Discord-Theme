@@ -1,10 +1,13 @@
-# Discord-Theme
-Isinya cuma tema-tema discord yang gw temui dan gw ubah ke lightmode dan pastinya hak cipta milik owner masing-masing.
+# Themes
+Sesuai namanya ini isinya tema-tema untuk beberapa software.
+
+
+
+# sys530
 
 > [!WARNING]  
 > KARENA DISCORD SUDAH MERUBAH UI NYA KE BENTUK BARU, UNTUK SEMENTARA TEMA INI TIDAK BISA DIGUNAKAN
-
-# sys530
+> 
 Adalah modifikasi dari tema [system24](https://github.com/refact0r/system24) yang disesuaikan untuk lightmode
 
 ![screenshot](/assets/sys530.png)
