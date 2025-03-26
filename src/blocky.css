@@ -37,16 +37,6 @@
 	right: -4px;
 	border: 2px solid var(--bg-0);
 }
-.wrapper__44b0c:has(rect[fill='#23a55a'])::after
-}
-.wrapper__44b0c:has(rect[fill='#f23f43'])::after
-}
-.wrapper__44b0c:has(rect[fill='#f0b232'])::after
-}
-.wrapper__44b0c:has(rect[fill='#80848e'])::after
-}
-.wrapper__44b0c:has(rect[fill='#593695'])::after
-}
 
 /* fix server list badges */
 [class^='lowerBadge_'] {
