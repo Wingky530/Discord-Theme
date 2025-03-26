@@ -1,5 +1,6 @@
 # Discord-Theme
-Isinya tema discord yang udah gw modifikasi ke lightmode
+Isinya cuma tema-tema discord yang gw temui dan gw ubah ke lightmode dan pastinya hak cipta milik owner masing-masing.
+
 > [!WARNING]  
 > KARENA DISCORD SUDAH MERUBAH UI NYA KE BENTUK BARU, UNTUK SEMENTARA TEMA INI TIDAK BISA DIGUNAKAN
 
