@@ -2,6 +2,7 @@
 Isinya tema discord yang udah gw modifikasi ke lightmode
 > [!WARNING]  
 > Ini hanya project untuk senang-senang semata.
+> KARENA DISCORD SUDAH MERUBAH UI NYA KE BENTUK BARU, UNTUK SEMENTARA TEMA INI TIDAK BISA DIGUNAKAN
 
 # sys530
 Adalah modifikasi dari tema [system24](https://github.com/refact0r/system24) yang disesuaikan untuk lightmode
